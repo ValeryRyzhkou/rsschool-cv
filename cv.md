@@ -12,5 +12,6 @@
 ### About me
 
 I graduated from VSMU in 2016, worked as a doctor until January 2022, after which I moved to Moscow, where I decided for myself that it was time to become a programmer. Enrolled in courses at the developers bootcamp. Now I am improving my acquired knowledge and I want to work in Epam and relocate to another country.
+
 ---
 
